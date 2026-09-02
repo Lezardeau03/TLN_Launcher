@@ -1,7 +1,7 @@
 {
     "name": "The Lost Nations",
     "productname": "The Lost Nations Launcher",
-    "version": "4.0.15",
+    "version": "0.0.7",
     "description": "The Lost Nations modded server launcher",
     "main": "src/app.js",
     "author": "TLN/Riptiaz/Boulldogo/Vexato/Luuxis",
@@ -11,7 +11,7 @@
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "build": "node build.js --obf=true --build=platform",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --ignore AppData/ --ignore node_modules/ --legacy-watch --exec npm start",
-        "icon": "node build.js --icon=https://raw.githubusercontent.com/CentralCorp/CentralCorp-Launcher/master/src/assets/images/icon.png"
+        "icon": "node build.js --icon=https://raw.githubusercontent.com/Lezardeau03/TLN_Launcher/master/src/assets/images/icon.png"
     },
     "license": "CC0",
     "nodemonConfig": {
@@ -39,10 +39,5 @@
     "repository": {
         "type": "git",
         "url": "git+https://github.com/Lezardeau03/TLN_Launcher.git"
-    },
-    "allowScripts": {
-        "javascript-obfuscator@4.1.1": true,
-        "electron@37.10.3": true,
-        "electron-winstaller@5.4.0": true
     }
 }
