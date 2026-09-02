@@ -4,7 +4,7 @@
 
 # CentralCorp Launcher
 
-CentralCorp Launcher is a customizable Minecraft launcher designed to work with the self-hosted CentralCorp web panel and the Azuriom ecosystem. It retrieves launcher configuration and game files from the panel, authenticates players through Azuriom, and starts the configured Minecraft version with loaders such as Forge or Fabric.
+CentralCorp Launcher is a customizable Minecraft launcher designed to work with the self-hosted CentralCorp web panel and the Azuriom ecosystem. It retrieves launcher configuration and game files from the panel, authenticates players through Azuriom, and starts the configured Minecraft version with loaders such as Forge or Fabric..
 
 [![Latest release](https://img.shields.io/github/v/release/CentralCorp/CentralCorp-Launcher?label=release)](https://github.com/CentralCorp/CentralCorp-Launcher/releases/latest)
 [![Launcher build](https://github.com/CentralCorp/CentralCorp-Launcher/actions/workflows/ci.yml/badge.svg)](https://github.com/CentralCorp/CentralCorp-Launcher/actions/workflows/ci.yml)
