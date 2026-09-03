@@ -1,7 +1,7 @@
 {
     "name": "the-lost-nations",
     "productname": "The Lost Nations Launcher",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "The Lost Nations modded server launcher",
     "main": "src/app.js",
     "author": "TLN/Riptiaz/Boulldogo/Vexato/Luuxis",
